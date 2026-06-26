@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📵 Reel Break Enforcer
 
 A lightweight Windows tool that monitors your screen for short-video apps (Instagram Reels, TikTok, YouTube Shorts, etc.) and pops a **fullscreen overlay** after you've been scrolling for too long.
@@ -93,3 +94,7 @@ reel_enforcer/
 ├── log.json        # Daily usage log
 └── README.md
 ```
+=======
+# reel-break-enforcer
+A Windows app that enforces breaks from reels and short videos
+>>>>>>> 7892e8789200f22603d41967c9671ef456ce5399
